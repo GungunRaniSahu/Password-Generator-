@@ -1,4 +1,3 @@
-# Password-Generator
 # Password Generator
 
 This project is a **Password Generator** built using Python. It was created as a part of my **20-day Python challenge**, where I aimed to improve my Python skills by building small yet practical projects.
